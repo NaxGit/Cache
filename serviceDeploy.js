@@ -1,8 +1,8 @@
 if ('serviceWorker' in navigator)
 {
-    navigator.serviceWorker.register('./serviceWorker.js', { scope: '/Cache/' })
+    navigator.serviceWorker.register('./Service.js', { scope: '/Cache/' })
     .then(registration =>
-    {console.log('Service Worker registered');})
+    {alert('Service ok.');})
     .catch(error =>
     {console.error('Service Worker registration failed:', error);});
 }
