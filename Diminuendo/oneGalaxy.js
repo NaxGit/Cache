@@ -76,9 +76,14 @@ else
 dialog.addEventListener('transitionend', () => { dialog.close(); dialog.classList.remove('glid'); });
 dialog.addEventListener('close', () => { while (dialog.firstChild) { dialog.removeChild(dialog.firstChild) } });
 
-const cache = await caches.open('Coffee');
-const Stock = await cache.match('Stock');
-const Group = await cache.match('Group');
+
+const Stock = await fetch('Stock');
+const Group = await fetch('Group');
+
+
+// const cache = await caches.open('Coffee');
+// const Stock = await cache.match('Stock');
+// const Group = await cache.match('Group');
 
 if (Stock) { entirety = await Stock.json(); jsGalaxy.dispatchEvent(new Event('Sprite')); }
 
