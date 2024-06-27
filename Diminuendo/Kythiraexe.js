@@ -4,7 +4,6 @@ if (!sputnik) {
 	location.reload();
 };
 
-    alert('Service worker New area!');
 
 	
 
