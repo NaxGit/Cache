@@ -76,9 +76,11 @@ else
 dialog.addEventListener('transitionend', () => { dialog.close(); dialog.classList.remove('glid'); });
 dialog.addEventListener('close', () => { while (dialog.firstChild) { dialog.removeChild(dialog.firstChild) } });
 
-
+alert("This is an alert message!");
 const Stock = await fetch('Stock');
 const Group = await fetch('Group');
+
+
 
 
 // const cache = await caches.open('Coffee');
