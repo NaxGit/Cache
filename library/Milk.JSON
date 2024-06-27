@@ -1,0 +1,513 @@
+[
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "1",
+		"iIcon": "./files/Milk/43281_main.jpg",
+		"iName": "Brookside Dairy Best Fino 500ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "2",
+		"iIcon": "./files/Milk/43356_main.jpg",
+		"iName": "Ilara FRESH Full Cream Whole Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "3",
+		"iIcon": "./files/Milk/15897_main.jpg",
+		"iName": "Daima Fresh Whole Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "4",
+		"iIcon": "./files/Milk/34849_main.jpg",
+		"iName": "Fresha Fresh Whole Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "5",
+		"iIcon": "./files/Milk/11651_main.jpg",
+		"iName": "Kcc Fresh Milk Pouch 500Ml -Fresh Milk"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "6",
+		"iIcon": "./files/Milk/43374_Main.jpg",
+		"iName": "Tuzo Whole Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "7",
+		"iIcon": "./files/Milk/16012_main.jpg",
+		"iName": "Daima Uht Milk Fino 500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "8",
+		"iIcon": "./files/Milk/1700Wx1700H_179860_main.jpg",
+		"iName": "Brookside Dairy Best Fino Carton 500mlx12 - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "9",
+		"iIcon": "./files/Milk/11661_main.jpg",
+		"iName": "Kcc Goldcrown Fresh Milk Tfa 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "10",
+		"iIcon": "./files/Milk/132858_main.jpg",
+		"iName": "Mount Kenya Uht Milk Esl 500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "11",
+		"iIcon": "./files/Milk/89655_main.jpg",
+		"iName": "Tuzo Esl Milk 450Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "12",
+		"iIcon": "./files/Milk/81479_main.jpg",
+		"iName": "Bio Whole Fresh Milk 2L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "13",
+		"iIcon": "./files/Milk/35753_main.jpg",
+		"iName": "Fresha Maisha 500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "14",
+		"iIcon": "./files/Milk/1700Wx1700H_83488_main.jpg",
+		"iName": "Daima Fino Bora Milk Pouch 500Ml -Long Life Milk"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "15",
+		"iIcon": "./files/Milk/11650_main.jpg",
+		"iName": "Kcc Gold Crown Frsh Milk Pouch 500Ml -Fresh Milk"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "16",
+		"iIcon": "./files/Milk/35751_main.jpg",
+		"iName": "Fresha Milk Esl Pouch 500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "17",
+		"iIcon": "./files/Milk/51005_main.jpg",
+		"iName": "Lato Milk Esl Pouch 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "18",
+		"iIcon": "./files/Milk/81030_main.jpg",
+		"iName": "Lato Fino Uht Milk 500Ml- Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "19",
+		"iIcon": "./files/Milk/43275_main.jpg",
+		"iName": "Brookside Whole Milk 1L - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "20",
+		"iIcon": "./files/Milk/43282_main.jpg",
+		"iName": "Brookside Whole Milk TCA 200ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "21",
+		"iIcon": "./files/Milk/43938_main.jpg",
+		"iName": "Brookside Farm Fresh Sweetened Maziwa Lala 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "22",
+		"iIcon": "./files/Milk/43320_main.jpg",
+		"iName": "Brookside Farm Fresh Natural Maziwa Lala 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "23",
+		"iIcon": "./files/Milk/34854_main.jpg",
+		"iName": "Fresha Maziwa Lala Fermented Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "24",
+		"iIcon": "./files/Milk/43306_Main.jpg",
+		"iName": "Tuzo Uht Fino W/Milk 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "25",
+		"iIcon": "./files/Milk/11662_main.jpg",
+		"iName": "Kcc Fresh Milk Tfa 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "26",
+		"iIcon": "./files/Milk/176273_main.jpg",
+		"iName": "Lisha Esl Milk 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "27",
+		"iIcon": "./files/Milk/48733_main.jpg",
+		"iName": "Bio Whole Fresh Milk 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "28",
+		"iIcon": "./files/Milk/43277_main.jpg",
+		"iName": "Brookside Whole Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "29",
+		"iIcon": "./files/Milk/55457_main.jpg",
+		"iName": "Kinangop Fresh Pouch Milk 500Ml -Fresh Milk"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "30",
+		"iIcon": "./files/Milk/43284_main.jpg",
+		"iName": "Brookside Dairy Fresh Vanilla Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "31",
+		"iIcon": "./files/Milk/43357_main.jpg",
+		"iName": "Ilara Mazila Maziwa Lala Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "32",
+		"iIcon": "./files/Milk/34852_Main.jpg",
+		"iName": "Fresha Fresh Whole Milk 5L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "33",
+		"iIcon": "./files/Milk/55459_main.jpg",
+		"iName": "Kinangop Longlife 90Days Milk 500Ml- Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "34",
+		"iIcon": "./files/Milk/1700Wx1700H_191945_main.jpg",
+		"iName": "LATO UHT FINO MILK 200ML"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "35",
+		"iIcon": "./files/Milk/43286_main.jpg",
+		"iName": "Brookside Dairy Fresh Strawberry Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "36",
+		"iIcon": "./files/Milk/43319_Main.jpg",
+		"iName": "Brookside Standard Farm Fresh Whole Milk 2L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "37",
+		"iIcon": "./files/Milk/150013_main.jpg",
+		"iName": "Daima Fino Bora Milk 200Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "38",
+		"iIcon": "./files/Milk/80753_main.jpg",
+		"iName": "Brookside Disney Vanilla Flavoured Milk 200ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "39",
+		"iIcon": "./files/Milk/11663_main.jpg",
+		"iName": "Kcc Goldcrown Uht Milk Tca 200Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "40",
+		"iIcon": "./files/Milk/43392_Main.jpg",
+		"iName": "Tuzo Uht Whole Milk Tca 200Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "41",
+		"iIcon": "./files/Milk/1700Wx1700H_194260_Main.jpg",
+		"iName": "ROYAL FRESH LONG LIFE ESL 500ML"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "42",
+		"iIcon": "./files/Milk/43287_main.jpg",
+		"iName": "Brookside Dairy Fresh Chocolate Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "43",
+		"iIcon": "./files/Milk/43298_main.jpg",
+		"iName": "Brookside Dairy Fresh Assorted Flavoured Milk 250ml X Pack Of 6 - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "44",
+		"iIcon": "./files/Milk/43280_main.jpg",
+		"iName": "Brookside Low Fat Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "45",
+		"iIcon": "./files/Milk/43291_main.jpg",
+		"iName": "Brookside Dairy Fresh Bubble Gum Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "46",
+		"iIcon": "./files/Milk/52781_main.jpg",
+		"iName": "Lato Milk With Straw Tba 250Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "47",
+		"iIcon": "./files/Milk/43289_main.jpg",
+		"iName": "Brookside Dairy Fresh Banana Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "48",
+		"iIcon": "./files/Milk/179873_main.jpg",
+		"iName": "Lato Milk Fino UHT Whole Milk 500ml x Pack of 12"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "49",
+		"iIcon": "./files/Milk/43292_main.jpg",
+		"iName": "Brookside Dairy Fresh Vanilla Flavoured Milk 250ml X Pack Of 6 - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "50",
+		"iIcon": "./files/Milk/1700Wx1700H_174108_main.jpg",
+		"iName": "Bio Nature Plain Maziwa Lala Drink 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "51",
+		"iIcon": "./files/Milk/133367_main.jpg",
+		"iName": "Mount Kenya Uht Milk Tca 200Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "52",
+		"iIcon": "./files/Milk/81483_main.jpg",
+		"iName": "Bio Barista Smooth And Creamy Fresh Milk 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "53",
+		"iIcon": "./files/Milk/48734_main.jpg",
+		"iName": "Bio Skimmed Fresh Milk 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "54",
+		"iIcon": "./files/Milk/1700Wx1700H_43303_main.jpg",
+		"iName": "Tuzo Uht Whole Milk 1L - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "55",
+		"iIcon": "./files/Milk/1700Wx1700H_179854_main.jpg",
+		"iName": "Daima Fresh Milk 500ml x Pack of 18"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "56",
+		"iIcon": "./files/Milk/80752_main.jpg",
+		"iName": "Brookside Disney Strawberry Flavoured Milk 200ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "57",
+		"iIcon": "./files/Milk/1700Wx1700H_191946_main.jpg",
+		"iName": "LATO UHT TETRA PACK 125ML"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "58",
+		"iIcon": "./files/Milk/73621_main.jpg",
+		"iName": "Bio Semi Skimmed Fresh Milk 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "59",
+		"iIcon": "./files/Milk/11665_main.jpg",
+		"iName": "Kcc Goldcrown Milk Esl Pouch 500Ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "60",
+		"iIcon": "./files/Milk/43355_main.jpg",
+		"iName": "Ilara Fresh Full Cream Whole Milk 1L"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "61",
+		"iIcon": "./files/Milk/179871_main.jpg",
+		"iName": "Tuzo UHT Fino Whole Milk 500ml x Pack of 12"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "62",
+		"iIcon": "./files/Milk/111025_main.jpg",
+		"iName": "Daima Milk Drink Strawberry500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "63",
+		"iIcon": "./files/Milk/43288_main.jpg",
+		"iName": "Brookside Dairy Fresh Coffee Flavoured Milk 250ml - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "64",
+		"iIcon": "./files/Milk/159872_main.jpg",
+		"iName": "Brookside Farm Fresh Whole Milk 3L - Fresh Milk bottle"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "65",
+		"iIcon": "./files/Milk/43293_main.jpg",
+		"iName": "Brookside Dairy Fresh Strawberry Flavoured Milk 250ml X Pack Of 6 - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "66",
+		"iIcon": "./files/Milk/82461_main.jpg",
+		"iName": "Daima Milk Drink Vanilla  Flavor 500Ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "67",
+		"iIcon": "./files/Milk/1700Wx1700H_199770_main.jpg",
+		"iName": "Brookside Long Life UHT Whole Milk 200ml x Pack of 21"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "68",
+		"iIcon": "./files/Milk/43294_main.jpg",
+		"iName": "Brookside Dairy Fresh Chocolate Flavoured Milk 250ml X Pack Of 6 - Long Life"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "69",
+		"iIcon": "./files/Milk/51074_main.jpg",
+		"iName": "Daima Maziwa Bora Long Lofe Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "70",
+		"iIcon": "./files/Milk/1700Wx1700H_194261_main.jpg",
+		"iName": "Royal Fresh Long Life UHT Milk 200ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "72",
+		"iIcon": "./files/Milk/163599_main.jpg",
+		"iName": "Nuziwa Almond Milk Original 1L - Non Dairy"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "73",
+		"iIcon": "./files/Milk/1700Wx1700H_194259_1.jpg",
+		"iName": "Royal Fresh Long Life UHT Milk 500ml"
+	},
+	{
+		"Place": "1",
+		"Group": "Milk",
+		"SKU": "74",
+		"iIcon": "./files/Milk/1700Wx1700H_197575_Main.jpg",
+		"iName": "Brookside Almond Plant Based Milk - Unsweetened"
+	}
+]
