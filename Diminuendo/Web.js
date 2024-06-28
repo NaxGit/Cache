@@ -4,7 +4,7 @@ const Dbase = 'Coffee';
 const Stock = location.origin.concat('/Stock');
 const Group = location.origin.concat('/Group');
 
-
+console.log(Stock);
 
 self.addEventListener
 (
