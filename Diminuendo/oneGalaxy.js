@@ -86,7 +86,7 @@ dialog.addEventListener('close', () => { while (dialog.firstChild) { dialog.remo
   
 	  // Check for successful response
 	  if (!Stock.ok) {
-		throw new Error(`Error fetching data: ${response.status}`);
+		throw new Error(`Error fetching data: ${Stock.status}`);
 	  }
   
   
