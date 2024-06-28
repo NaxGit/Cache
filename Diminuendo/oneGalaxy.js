@@ -1,6 +1,9 @@
 const jsGalaxy = document.getElementById('oneGalaxy');
 
-console.log('hi');
+const Stock = location.origin.concat('/Stock');
+const Group = location.origin.concat('/Group');
+
+console.log(Stock);
 
 let entirety;
 let selected;
