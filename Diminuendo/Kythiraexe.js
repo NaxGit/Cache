@@ -7,16 +7,6 @@ if (!sputnik) {
 	location.reload();
 };
 
-if ('serviceWorker' in navigator)
-{
-	navigator.serviceWorker.register('./Service.js', { scope: '/' })
-	.then(registration =>
-	{console.log('Service Worker registered');})
-	.catch(error =>
-	{console.error('Service Worker registration failed:', error);});
-}
-	
-
 const worker = new Worker('./Diminuendo/Web.js');
 const workersales = new Worker('./Diminuendo/WorkerSales.js');
 
